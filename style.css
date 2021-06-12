@@ -1,0 +1,32 @@
+
+        h1{
+            color:fuchsia
+        }
+        a{
+            color:blue
+        }
+        p{
+            color:black
+        }
+        .header{
+            background-color: aquamarine;
+            text-align: center;
+        }
+        .main{
+            background-color: aqua;
+            display:flex;
+            justify-content:space-around
+        }
+        .lines{
+            background-color:darkturquoise;
+            text-align: center;
+        }
+        .grid{
+            
+            background-color: aquamarine;
+        }
+        .footer{
+            background-color:greenyellow;
+            display:flex;
+            justify-content: flex-end;
+        }
